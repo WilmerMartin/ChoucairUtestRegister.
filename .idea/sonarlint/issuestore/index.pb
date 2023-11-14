@@ -25,3 +25,7 @@ Psrc/main/java/co/com/choucair/certification/proyectobase/tasks/RegisterData.jav
 Osrc/main/java/co/com/choucair/certification/proyectobase/tasks/ButtonFinal.java,7\5\751eb2931210b4de20618959687f33b437b06dcc
 “
 csrc/main/java/co/com/choucair/certification/proyectobase/userinterface/ChoucairButtonFinalPage.java,0\8\082600e965f233d592836f1e35ed4f11cbea6ac7
+‡
+Wsrc/main/java/co/com/choucair/certification/proyectobase/tasks/RegisterDataStepTwo.java,6\f\6f6644f81f0d0a7d660ff0edeb3ea6719dedb47a
+ˆ
+Xsrc/main/java/co/com/choucair/certification/proyectobase/tasks/RegisterDataStepFour.java,7\3\73a4fb260258ecca0e45de189eb372904fc5ceba
